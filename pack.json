@@ -1,7 +1,7 @@
 {
-  "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "name": "ChronoWave",
+  "description": "Chrono Trigger Lofi/Vaporwave BGM for Audio Loader",
+  "author": "ThisByzantineConduit",
   "version": "v1.0",
   "manifest_version": 2,
   "music": false,
